@@ -1,0 +1,8 @@
+## Requirements
+
+- Python 3.11
+
+numpy==2.3.5
+pandas==2.3.3
+wntr==1.4.0
+gurobipy==13.0.0 (academic license)
